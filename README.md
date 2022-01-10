@@ -1,2 +1,2 @@
 # chunqiuyiyu.com
-Personal blog
+Personal blog build with [Inkval](https://www.chunqiuyiyu.com/inkval/).
