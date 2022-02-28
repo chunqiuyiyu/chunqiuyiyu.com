@@ -75,7 +75,7 @@ if (!user) {
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” （任何傻瓜都可以编写电脑能够理解的代码，优秀的程序员才能编写人类可以理解的代码）
 
-如果我们重构上述的代码，一种方式是使用迟早返回（Return Early Pattern）:
+如果我们重构上述的代码，一种方式是使用尽早返回（Return Early Pattern）:
 
 ```js
 const userValidator = (user) => {
