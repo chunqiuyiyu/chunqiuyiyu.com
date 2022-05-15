@@ -8,7 +8,7 @@ title: 关于我
 
 ## 导航
 
-书香乾坤赴
+[书香乾坤赴](https://www.chunqiuyiyu.com/tags/boooks.html)
 
 > 诗书，味之太羹，史为折俎，子为醯醢，是为书三味。
 
