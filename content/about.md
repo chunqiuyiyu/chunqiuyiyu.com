@@ -16,7 +16,7 @@ title: 关于我
 
 > 凡音之起，由人心生也。
 
-语歧路
+[语歧路](https://www.chunqiuyiyu.com/tags/words.html)
 
 > 不如意事常八九，可与语人无二三。
 
