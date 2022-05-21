@@ -4,11 +4,11 @@ title: 关于我
 
 ## 我是谁
 
-一位前端开发工程师，爱好编程、阅读与电子游戏。你可以通过邮件[联系我](mailto:chunqiuyiyu@outlook.com)，或者阅读这些文章来了解更多关于我的信息。
+一位前端开发工程师，爱好编程、阅读与电子游戏。你可以通过邮件[联系我](mailto:chunqiuyiyu@outlook.com)，或者阅读这些[文章]来了解更多关于我的信息。
 
 ## 导航
 
-[书香乾坤赴](https://www.chunqiuyiyu.com/tags/boooks.html)
+[书香乾坤赴](https://www.chunqiuyiyu.com/tags/books.html)
 
 > 诗书，味之太羹，史为折俎，子为醯醢，是为书三味。
 
