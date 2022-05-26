@@ -29,3 +29,5 @@ title: 关于我
 > 不积跬步，无以至千里；不积小流，无以成江海。
 
 ## 搜索
+
+<input type="search" ></input>
