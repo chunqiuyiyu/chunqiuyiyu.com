@@ -6,6 +6,11 @@ title: 关于我
 
 一位前端开发工程师，爱好编程、阅读与电子游戏。你可以通过邮件[联系我](mailto:chunqiuyiyu@outlook.com)，或者阅读这些[文章](https://www.chunqiuyiyu.com/tags/life.html)来了解更多关于我的信息。
 
+
+## 搜索
+
+<input type="search" ></input>
+
 ## 导航
 
 [书香乾坤赴](https://www.chunqiuyiyu.com/tags/books.html)
@@ -27,7 +32,3 @@ title: 关于我
 [集腋春风度](https://chunqiuyiyu.com/projects/)
 
 > 不积跬步，无以至千里；不积小流，无以成江海。
-
-## 搜索
-
-<input type="search" ></input>
