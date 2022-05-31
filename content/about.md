@@ -9,7 +9,7 @@ title: 关于我
 
 ## 搜索
 
-<input type="search" ></input>
+<input type="search" onchange="location.href='https://www.google.com/search?q=site%3Awww.chunqiuyiyu.com+'+ this.value"></input>
 
 ## 导航
 
