@@ -1,12 +1,12 @@
 ---
-title: SpotlightWallpaper：将 Windows 聚焦图片设置为桌面壁纸
+title: 将 Windows 聚焦图片设置为桌面壁纸
 date: 2022-05-14 23:23
-tags: [软件]
+tags: [软件, Windows]
 ---
 
 我的一直在用 Win10 电脑作为主力开发设备，Win10 系统比较新的版本有一项功能我非常喜欢，那就是“Windows 聚焦”。这项功能可以让你在锁屏界面使用一系列精美的摄影作品，这些精美的图片拍摄于全球各地，让你足不出户领略到各地的人文与自然风光。每天早上打开电脑，看到如此的美景，整个人一天的心情都好起来了。下面是一张随便挑选的 Windows 聚焦图片，可以感受一下（已压缩，实际的图片会更加清晰）：
 
-![SpotlightWallpaper](./img/spotlight.jpg)
+![SpotlightWallpaper](/img/spotlight.jpg)
 
 但遗憾的是，Windows 聚焦图片无法直接设置为桌面壁纸。在查询了一些资料后，我了解到 Windows 聚焦的图片是直接保存在本地目录下的，随着用户点击锁屏界面的喜欢与否选项，这些图片会被自动更新。有了这些基础知识后，我就想着自己开发一款小软件来实现将 Windows 聚焦图片设置为桌面壁纸的功能。
 
@@ -54,7 +54,7 @@ tags: [软件]
 
 ### 预览
 
-![Screenshot](./img/screenshot.jpg)
+![Screenshot](/img/screenshot.jpg)
 
 ## 结语
 
