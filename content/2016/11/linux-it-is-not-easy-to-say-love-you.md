@@ -1,7 +1,7 @@
 ---
 title: Linux，想说爱你并不容易
 date: 2016-11-07 21:00
-tags: [Linux, 软件]
+tags: [Linux, 软件, Windows]
 ---
 
 ## 写在前面的话
