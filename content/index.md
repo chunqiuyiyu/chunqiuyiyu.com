@@ -10,5 +10,4 @@ startAt: 2013
 书籍: books
 碎语: words
 游戏: game
-Linux: linux
 ---
