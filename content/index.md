@@ -10,5 +10,5 @@ startAt: 2013
 书籍: books
 碎语: words
 游戏: game
-算法:
+算法: algorithm
 ---
