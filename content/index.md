@@ -12,5 +12,5 @@ startAt: 2013
 游戏: game
 算法: algorithm
 伤感: sadness
-动漫: 
+动漫: cartoon
 ---
