@@ -13,5 +13,5 @@ startAt: 2013
 算法: algorithm
 伤感: sadness
 动漫: cartoon
-古典:
+古典: classic
 ---
