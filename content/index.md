@@ -14,5 +14,5 @@ startAt: 2013
 伤感: sadness
 动漫: cartoon
 古典: classic
-小说: 
+小说: novel
 ---
