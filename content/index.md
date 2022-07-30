@@ -15,5 +15,5 @@ startAt: 2013
 动漫: cartoon
 古典: classic
 小说: novel
-影视
+影视: videos
 ---
