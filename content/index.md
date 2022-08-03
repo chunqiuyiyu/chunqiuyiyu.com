@@ -17,5 +17,5 @@ startAt: 2013
 小说: novel
 影视: videos
 庆祝: celebration
-插件
+插件: plugin
 ---
