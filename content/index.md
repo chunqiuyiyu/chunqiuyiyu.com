@@ -18,5 +18,5 @@ startAt: 2013
 影视: videos
 庆祝: celebration
 插件: plugin
-感悟
+感悟: feeling
 ---
