@@ -23,5 +23,5 @@ startAt: 2013
 源码: code
 武侠: heroic
 工具: tools
-组件
+组件: component
 ---
