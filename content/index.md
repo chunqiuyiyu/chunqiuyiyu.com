@@ -30,5 +30,5 @@ startAt: 2013
 音乐: music
 诗词: poetry
 软件: softwares
-魔幻: 
+魔幻: magic
 ---
