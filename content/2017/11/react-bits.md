@@ -1,6 +1,6 @@
 ---
 title: React 实践记录
-date: 2017-11-06 17:09:28
+date: 2017-11-06 17:09
 tags: [React, Redux]
 ---
 ## 前言
