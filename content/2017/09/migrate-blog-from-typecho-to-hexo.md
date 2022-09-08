@@ -1,6 +1,6 @@
 ---
 title: 博客从 Typecho 迁移到 Hexo
-date: 2017-09-12 16:39:49
+date: 2017-09-12 16:39
 tags: [Hexo, Typecho]
 ---
 
