@@ -1,7 +1,7 @@
 ---
 title: 利器（一）
 date: 2022-10-26 23:00
-tags: [Windows]
+tags: [Windows, 软件]
 ---
 
 >工欲善其事，必先利其器。
