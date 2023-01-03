@@ -5,5 +5,7 @@
 网址：howlongtobeat.com
 5. https://github.com/Codeusa/Borderless-Gaming
 6. https://playnite.link/
+7. https://ziglang.org/
+
 
 一个怀旧主题的网站，收录 1991 到 2006 年间的网页设计。内容非常丰富，值得一看。
