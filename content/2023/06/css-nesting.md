@@ -32,4 +32,31 @@ CSS 嵌套是一种 CSS 预处理器的特性，它可以让你在 CSS 中使用
 }
 ```
 
+使用 & 符号可以引用父元素的选择器，这在原版 CSS 中是做不到的。
+
+```css
+.parent-selector {
+  color: red;
+
+  &:hover {
+    color: blue;
+  }
+}
+```
+
+目前 CSS 嵌套语法支持所有用符号开头的子选择器，如下：
+
+```css
+main {
+ .bar { ... } 
+ #baz { ...}
+ :has(p) { ... }
+ ::backdrop { ... }
+ [lang|="zh"] { ... }
+ * { ... }
+ + article { ... }
+ > p { ... }
+ ~ main { ... }
+}
+```
 
