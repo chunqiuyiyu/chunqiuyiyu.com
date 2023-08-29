@@ -16,4 +16,18 @@ data:[<mediatype>][;base64],<data>
 - `<mediatype>` 媒体类型，可选
 - `;base64` 表示数据使用 base64 编码，可选
 - `<data>` 数据内容
+
+一个简单的例子：
+
+```html
+data:text/plain;base64,SGVsbG8sIFdvcmxkIQ%3D%3D 
+```
+
+将上述 Data URL 复制到浏览器地址栏中，浏览器会自动解析并显示出来，如下：
+
+```
+Hello, World!
+```
+
+
   
