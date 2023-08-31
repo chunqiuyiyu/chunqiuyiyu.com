@@ -35,5 +35,11 @@ Hello, World!
 Data URL 格式中的 `mediatype` 支持 `text/html`，这意味着我们可以将 HTML 文件嵌入到 URL 中，从而实现在浏览器中直接运行 HTML 文件。
 借助于现代浏览器支持的 HTML5/CSS3/ES6 特性，我们可以在浏览器中运行一些简单的程序，来实现各种各样的功能。将下面的 Data URL 复制到浏览器地址栏中，即可查看效果。
 
+```html
 
+### 文本编辑器
+
+```html
+data:text/html,<html contenteditable>Type Here</html>
+```
   
