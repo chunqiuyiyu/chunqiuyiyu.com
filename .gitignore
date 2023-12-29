@@ -1,4 +1,4 @@
 dist
 .idea
 build.sh
-layout/footer.html
+/layout/footer.html
